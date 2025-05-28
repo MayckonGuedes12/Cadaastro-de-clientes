@@ -1,6 +1,6 @@
 // app.js
-import { Cliente } from "./js/classes.js";
-import { limparFormulario, criarElementoCliente } from "./js/utils.js";
+import { Cliente } from "scrpts.js/classes.js";
+import { limparFormulario, criarElementoCliente } from "scrpts.js/utils.js";
 
 const API_BASE = "https://crudcrud.com/api/0b5ebd9c3f7d492eafa3f5a6516de201/clientes";
 
