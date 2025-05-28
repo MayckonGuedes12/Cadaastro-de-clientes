@@ -2,7 +2,7 @@
 import { Cliente } from "./js/classes.js";
 import { limparFormulario, criarElementoCliente } from "./js/utils.js";
 
-const API_BASE = "https://crudcrud.com/api/e3b7c89e99c845d190ef26e6800ba30e/clientes";
+const API_BASE = "https://crudcrud.com/api/0b5ebd9c3f7d492eafa3f5a6516de201/clientes";
 
 const form = document.getElementById("cliente-form");
 const lista = document.getElementById("lista-clientes");
